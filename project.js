@@ -10,7 +10,7 @@ server.route({
     method:"GET",
     path:"/",
     handler:(request,reply)=>{
-        return "Welcome to HAPI Server";
+        return "Welcome to HAPI ";
     }
 })
 // 1 get method
